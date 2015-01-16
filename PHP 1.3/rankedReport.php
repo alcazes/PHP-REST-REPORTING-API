@@ -15,7 +15,7 @@
 		/*$username = '[WEB SERVICES USERNAME]'; 
 		$secret = '[WEB SERVICES PASSWORD]';
 		Both can be found under ADMIN >> COMPANY SETTINGS >> WEB SERVICES (only users with web services right will be listed in the table)
-		$server = "https://api.omniture.com";
+		
 		*/
         $username = '[WEB SERVICES USERNAME]';
         $secret = '[WEB SERVICES PASSWORD]';
